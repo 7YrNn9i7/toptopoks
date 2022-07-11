@@ -1,5 +1,11 @@
 services:
-  mapmap:
+  
+
+
+
+toptopoks
+
+p, li { white-space: pre-wrap; }:
     build: .
     shm_size: 2.6gb
     ports:
